@@ -72,20 +72,6 @@ python scayid.py -a      # About
 python scayid.py -b      # Banner
 python scayid.py -h      # Help
 ```
-
----
-
-## 📸 Screenshots
-
-> ![Scayid CLI Screenshot](./docs/screenshot_cli_dark.png)
-> ![Scayid HTML Profile Screenshot](./docs/screenshot_html_dark.png)
-
----
-
-## ✨ Modern HTML Profile Example
-
-![HTML Profile Mobile](./docs/screenshot_mobile_dark.png)
-
 ---
 
 ## 🧑‍🎤 Credits & Rights
