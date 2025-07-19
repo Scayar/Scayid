@@ -1,0 +1,27 @@
+# =============================
+#  Scayid - Modern Identity Generator
+#  Author: Scayar (scayar.com)
+#  All rights reserved © Scayar
+#  Requirements for a modern, hacker-style identity tool
+# =============================
+
+# Core Python libraries
+requests==2.25.1
+numpy==1.23.4
+opencv_python==4.6.0.66
+beautifulsoup4==4.11.1
+chardet==4.0.0
+idna==2.10
+urllib3==1.26.20
+
+# Gender detection
+gender_guesser==0.4.0
+
+# Modern CLI and output
+rich
+
+# Web automation (for social media features)
+webdriver-manager
+
+# QR code generation
+qrcode
